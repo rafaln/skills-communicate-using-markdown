@@ -5,3 +5,10 @@
 ### My first image
 
 ![my first image](https://octodex.github.com/images/yaktocat.png)
+
+### my first code example
+
+```
+print("some python code")
+
+```
