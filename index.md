@@ -12,3 +12,9 @@
 print("some python code")
 
 ```
+
+### adding a task list
+
+- [ ] create readme files
+- [ ] review documentation
+- [ ] arrange a meeting with expert ops
